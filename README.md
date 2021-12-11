@@ -26,6 +26,5 @@ React Native - é um Framework para desenvolvimento de aplicativos móveis multi
 Yarn e o NPM - ambos são gerenciadores de pacotes e dependências em projetos JavaScript.
 Expo - é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código naTtivo.
 
-...
 To be continued
 ...
