@@ -24,7 +24,7 @@ Resumindo, esse modelo é composto principalmente de um conjunto de servidores q
 O que estamos utilizando nesse trabalho?
 React Native - é um Framework para desenvolvimento de aplicativos móveis multiplataforma. 
 Yarn e o NPM - ambos são gerenciadores de pacotes e dependências em projetos JavaScript.
-Expo - é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código naTtivo.
+Expo - é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código nativo.
 
 To be continued
 ...
