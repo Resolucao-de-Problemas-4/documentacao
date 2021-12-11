@@ -1,6 +1,6 @@
 Sistema para Controle de Transporte Particular
 
-	O sistema utiliza API’s para a exibição de dados e informações na tela, tal qual usaremos para exibir o MAPA (API: Google Maps | OpenLayers). A partir da ideia de ser um sistema de transporte particular, vimos em sua documentação que os atores são Cliente, Motorista e Gerente e que o Cliente e o Motorista terão uma interação através do APP, por isso, decidimos desenvolver um aplicativo Mobile. 
+O sistema utiliza API’s para a exibição de dados e informações na tela, tal qual usaremos para exibir o MAPA (API: Google Maps | OpenLayers). A partir da ideia de ser um sistema de transporte particular, vimos em sua documentação que os atores são Cliente, Motorista e Gerente e que o Cliente e o Motorista terão uma interação através do APP, por isso, decidimos desenvolver um aplicativo Mobile. 
 
 Requisito Não Funcional encontrado na documentação:
 Desempenho: “ O tempo de resposta do aplicativo é essencial. A demora em transmitir solicitações de corrida e suas aceitações podem causar o cancelamento das solicitações e atraso dos clientes.” 
@@ -24,4 +24,8 @@ Resumindo, esse modelo é composto principalmente de um conjunto de servidores q
 O que estamos utilizando nesse trabalho?
 React Native - é um Framework para desenvolvimento de aplicativos móveis multiplataforma. 
 Yarn e o NPM - ambos são gerenciadores de pacotes e dependências em projetos JavaScript.
-Expo - é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código nativo.
+Expo - é uma ferramenta utilizada no desenvolvimento mobile com React Native que permite o fácil acesso às API's nativas do dispositivo sem precisar instalar qualquer dependência ou alterar código naTtivo.
+
+...
+To be continued
+...
